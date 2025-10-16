@@ -33,7 +33,7 @@ The aim of this assignment was to:
 
 ## 🖼️ Preview
 
-![Preview](./screenrecord.mp4)
+![Preview](./video.gif)
 
 ## 🌐 Live Demo
 
